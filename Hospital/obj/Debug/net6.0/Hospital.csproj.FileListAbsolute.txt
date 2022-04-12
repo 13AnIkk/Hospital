@@ -1,0 +1,15 @@
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\bin\Debug\net6.0\Hospital.exe
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\bin\Debug\net6.0\Hospital.deps.json
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\bin\Debug\net6.0\Hospital.runtimeconfig.json
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\bin\Debug\net6.0\Hospital.dll
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\bin\Debug\net6.0\Hospital.pdb
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfo.cs
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.dll
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\refint\Hospital.dll
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.pdb
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\Hospital.genruntimeconfig.cache
+C:\Users\w10\Desktop\Etec\DES\Hospital\Hospital\obj\Debug\net6.0\ref\Hospital.dll
